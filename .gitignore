@@ -1,0 +1,2 @@
+# Para no subir los checkpoints al repositorio #
+.ipynb_checkpoints/*
